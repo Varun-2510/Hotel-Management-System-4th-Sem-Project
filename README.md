@@ -24,4 +24,8 @@ use in the hotel's various services. It has been a complex and difficult operati
 * **SQL** 
 
 ## Created By:
-<b><i>Varun Hatkar</i></b><br><br>
+**[Varun Hatkar](https://github.com/Varun-2510 )**,
+**[Tanmay Halde](https://github.com/HaldeTanmay)**,
+**[Akash Jagdale](https://github.com/Akash-Jagdale-707)**,
+**[Prasham Jain](https://github.com/prashamjain01)**
+
